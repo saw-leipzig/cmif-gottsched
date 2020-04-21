@@ -13,9 +13,9 @@ If you find any mistakes, let us know, by creating an issue.
 ## Contributors
 
 * Uwe Kretschmer
-* Lars Scheideler
 * Franziska Menzel
 * Rüdiger Otto
+* Lars Scheideler
 
 ## License
 
