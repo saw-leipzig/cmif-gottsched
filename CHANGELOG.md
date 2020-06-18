@@ -5,6 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [1.0.2] - 2020-06-18
+### Fixed
+- Added publisher information to bibliographic entries
+- Fixed 6 duplicate letter keys
+
+### Added
+- Added 20 missing letters
+
 ## [1.0.1] - 2020-04-22
 ### Fixed
 - List contributors in alphabetical order
