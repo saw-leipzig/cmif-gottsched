@@ -4,17 +4,14 @@
         <fileDesc>
             <titleStmt>
                 <title>Briefwechsel: Johann Christoph Gottsched</title>
-                <editor>Uwe Kretschmer</editor>
-                <editor>Franziska Menzel</editor>
-                <editor>Rüdiger Otto</editor>
-                <editor>Lars Scheideler</editor>
+                <editor>Uwe Kretschmer <email>kretschmer@saw-leipzig.de</email></editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2020-06-18T19:29:13.331+02:00</date>
+                <date>2021-06-20T14:23:13.331+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
