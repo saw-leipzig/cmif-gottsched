@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.4] - 2021-08-11
+
+### Added
+
+- Letters of volume 14
+- GND ID of Johann Friedrich Kopp
+
 ## [1.0.3] - 2021-06-20
 
 ### Changed
@@ -38,6 +45,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Letters of volumes 1-13.
 
+[1.0.4]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.0...1.0.1
