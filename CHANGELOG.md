@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- Letters of volume 14
+- GND ID of Johann Friedrich Kopp
+
 ## [1.0.3] - 2021-06-20
 
 ### Changed
