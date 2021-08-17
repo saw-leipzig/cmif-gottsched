@@ -6,6 +6,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+Identifier added for:
+
+- places
+  - Genf
+  - Torgau
+  - Winsen an der Luhr
+- persons
+  - Johann Samuell Patzke
+  - Maria Regina Thomasius von Troschenreuth und Wiedersberg
+  - Hugo Wilhelm von Wetzel
+
+### Fixed
+
+- Corrected date of letter 47 in volume 11.
+- Addressee of letter 50 in volume 5 is Luise Adelgunde Victorie Kulmus, not Johann Christoph Gottsched.
+
 ## [1.0.4] - 2021-08-11
 
 ### Added
