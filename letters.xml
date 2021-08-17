@@ -11,7 +11,7 @@
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2021-08-09T17:40:58.124+02:00</date>
+                <date>2021-08-17T14:42:26.239+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
@@ -2809,7 +2809,7 @@
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/117282405">Christian Gottlieb Ludwig</persName>
                     <date when="1731-11-28"/>
-                    <placeName>Genf</placeName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -3979,7 +3979,7 @@
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/139164758">Johann Gottfried Benemann</persName>
                     <date when="1733-04-18"/>
-                    <placeName>Torgau</placeName>
+                    <placeName ref="http://www.geonames.org/2821807">Torgau</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -9246,7 +9246,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="51" source="#gottsched_corresp_5">
@@ -20610,7 +20610,7 @@
             </correspDesc>
             <correspDesc key="120" source="#gottsched_corresp_10">
                 <correspAction type="sent">
-                    <persName>Johann Samuel Patzke</persName>
+                    <persName ref="http://d-nb.info/gnd/115535918">Johann Samuel Patzke</persName>
                     <date when="1744-12-17"/>
                     <placeName ref="http://www.geonames.org/2925535">Frankfurt an der Oder</placeName>
                 </correspAction>
@@ -22231,7 +22231,7 @@
             <correspDesc key="74" source="#gottsched_corresp_11">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/1013135105">Lorenz Henning Suke (Suck, Sucke)</persName>
-                    <date from="1746-01-23" to="1746-01-25"/>
+                    <date from="1746-01-24" to="1746-01-25"/>
                     <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -27967,7 +27967,7 @@
                 <correspAction type="sent">
                     <persName>Johann Gottlieb Wagner</persName>
                     <date when="1748-12-29"/>
-                    <placeName>Winsen an der Luhe</placeName>
+                    <placeName ref="https://www.geonames.org/2807845">Winsen an der Luhe</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -29224,7 +29224,7 @@
             </correspDesc>
             <correspDesc key="156" source="#gottsched_corresp_14">
                 <correspAction type="sent">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                     <date when="1749-06-28"/>
                     <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
                 </correspAction>
@@ -29474,7 +29474,7 @@
             </correspDesc>
             <correspDesc key="181" source="#gottsched_corresp_14">
                 <correspAction type="sent">
-                    <persName>Hugo Wilhelm von Wetzel</persName>
+                    <persName ref="https://d-nb.info/gnd/128877146">Hugo Wilhelm von Wetzel</persName>
                     <date when="1749-07-31"/>
                     <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
                 </correspAction>
@@ -29639,7 +29639,7 @@
                     <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="197b" source="#gottsched_corresp_14">
@@ -29649,7 +29649,7 @@
                     <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="198" source="#gottsched_corresp_14">
@@ -29669,7 +29669,7 @@
                     <placeName>Auf der Donau: Vilshofen/Passau/Linz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="199b" source="#gottsched_corresp_14">
@@ -29679,7 +29679,7 @@
                     <placeName>Auf der Donau: Vilshofen/Passau/Linz</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="200" source="#gottsched_corresp_14">
@@ -29724,7 +29724,7 @@
             </correspDesc>
             <correspDesc key="204" source="#gottsched_corresp_14">
                 <correspAction type="sent">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                     <date when="1749-09-19"/>
                 </correspAction>
                 <correspAction type="received">
@@ -29758,7 +29758,7 @@
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117350303">Maria Regina Thomasius von Troschenreuth und Wiedersberg</persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

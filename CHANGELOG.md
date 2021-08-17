@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.5] - 2021-08-17
+
+### Added
+
+Identifier added for:
+
+- places
+  - Genf
+  - Torgau
+  - Winsen an der Luhr
+- persons
+  - Johann Samuell Patzke
+  - Maria Regina Thomasius von Troschenreuth und Wiedersberg
+  - Hugo Wilhelm von Wetzel
+
+### Fixed
+
+- Corrected date of letter 47 in volume 11.
+- Addressee of letter 50 in volume 5 is Luise Adelgunde Victorie Kulmus, not Johann Christoph Gottsched.
+
 ## [1.0.4] - 2021-08-11
 
 ### Added
@@ -45,6 +65,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Letters of volumes 1-13.
 
+[1.0.5]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.4...1.0.5
 [1.0.4]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.1...1.0.2
