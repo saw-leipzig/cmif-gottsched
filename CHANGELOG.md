@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
 ## [1.0.6] - 2021-08-18
 
 ### Added
@@ -71,6 +73,7 @@ Identifier added for:
 
 - Letters of volumes 1-13.
 
+[Unreleased]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.6...HEAD
 [1.0.6]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.5...1.0.6
 [1.0.5]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.4...1.0.5
 [1.0.4]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.3...1.0.4
