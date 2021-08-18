@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- Letters of volume 15
+
 ## [1.0.5] - 2021-08-17
 
 ### Added
