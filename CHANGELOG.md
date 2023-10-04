@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- Letters of volume 16
+- Identifier for some organizations
+
 ## [1.0.6] - 2021-08-18
 
 ### Added
