@@ -29387,7 +29387,7 @@
             </correspDesc>
             <correspDesc key="172" source="#gottsched_corresp_14">
                 <correspAction type="sent">
-                    <persName>Caroline von Seckendorff (-Gutend)</persName>
+                    <persName>Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt</persName>
                     <date when="1749-07-17"/>
                     <placeName ref="http://www.geonames.org/2957773">Altenburg</placeName>
                 </correspAction>
@@ -29517,7 +29517,7 @@
             </correspDesc>
             <correspDesc key="185" source="#gottsched_corresp_14">
                 <correspAction type="sent">
-                    <persName>Caroline von Seckendorff (-Gutend)</persName>
+                    <persName>Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt</persName>
                     <date when="1749-08-08"/>
                     <placeName ref="http://www.geonames.org/2957773">Altenburg</placeName>
                 </correspAction>
@@ -29946,7 +29946,7 @@
             </correspDesc>
             <correspDesc key="19" source="#gottsched_corresp_15">
                 <correspAction type="sent">
-                    <persName>Caroline von Seckendorff (-Gutend)</persName>
+                    <persName>Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt</persName>
                     <date when="1749-10-28"/>
                     <placeName ref="http://www.geonames.org/2957773">Altenburg</placeName>
                 </correspAction>
@@ -30426,7 +30426,7 @@
             </correspDesc>
             <correspDesc key="67" source="#gottsched_corresp_15">
                 <correspAction type="sent">
-                    <persName>Caroline von Seckendorff (-Gutend)</persName>
+                    <persName>Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt</persName>
                     <date when="1749-12-23"/>
                     <placeName ref="http://www.geonames.org/2957773">Altenburg</placeName>
                 </correspAction>
@@ -30605,7 +30605,7 @@
             </correspDesc>
             <correspDesc key="85" source="#gottsched_corresp_15">
                 <correspAction type="sent">
-                    <persName>Caroline von Seckendorff (-Gutend)</persName>
+                    <persName>Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt</persName>
                     <date when="1750-01-06"/>
                     <placeName ref="http://www.geonames.org/2871437">Meuselwitz</placeName>
                 </correspAction>
@@ -33024,7 +33024,7 @@
             </correspDesc>
             <correspDesc key="112" source="#gottsched_corresp_16">
                 <correspAction type="sent">
-                    <persName>Caroline von Seckendorff (-Gutend)</persName>
+                    <persName>Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt</persName>
                     <date when="1750-12-01"/>
                     <placeName ref="http://www.geonames.org/2957773">Altenburg</placeName>
                 </correspAction>
@@ -35161,7 +35161,7 @@
             </correspDesc>
             <correspDesc key="121" source="#gottsched_corresp_17">
                 <correspAction type="sent">
-                    <persName evidence="conjecture">Khautz, Constantin Franz Florian von</persName>
+                    <persName ref="https://d-nb.info/gnd/100301452" evidence="conjecture">Constantin Franz Florian von Khautz</persName>
                     <date when="1751-09-05"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
