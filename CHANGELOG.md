@@ -4,7 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.0.9] - 2024-11-07
+
+### Added
+
+- Letters of volume 18
+- GND-ID of Constantin Franz Florian von Khautz
+
+### Changed
+
+- name "Caroline von Seckendorff (-Gutend)" to "Caroline von Seckendorff (-Gutend) geb. Vitzthum von Eckstädt"
 
 ## [1.0.8] - 2023-10-12
 
@@ -50,7 +59,7 @@ Identifier added for:
 ### Added
 
 - Letters of volume 14
-- GND ID of Johann Friedrich Kopp
+- GND-ID of Johann Friedrich Kopp
 
 ## [1.0.3] - 2021-06-20
 
@@ -86,7 +95,7 @@ Identifier added for:
 
 - Letters of volumes 1-13.
 
-[Unreleased]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.8...HEAD
+[1.0.9]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.8...1.0.9
 [1.0.8]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.7...1.0.8
 [1.0.7]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.6...1.0.7
 [1.0.6]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.5...1.0.6
