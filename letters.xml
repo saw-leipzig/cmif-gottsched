@@ -11,7 +11,7 @@
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2026-07-23T15:43:34.021+02:00</date>
+                <date>2026-07-23T16:33:54.142+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
@@ -37,6 +37,7 @@
                 <bibl type="hybrid" xml:id="gottsched_corresp_18">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 18: November 1751 – April 1752. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Michael Schlott. Berlin, Boston: de Gruyter, 2024. [Digitale Ausgabe, 2024. <ref target="https://doi.org/10.1515/9783111083865">DOI: 10.1515/9783111083865</ref>]</bibl>
                 <bibl type="hybrid" xml:id="gottsched_corresp_19">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 19: Mai 1752 – Oktober 1752. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston: de Gruyter, 2024. [Digitale Ausgabe, 2024. <ref target="https://doi.org/10.1515/9783111379111">DOI: 10.1515/9783111379111</ref>]</bibl>
                 <bibl type="hybrid" xml:id="gottsched_corresp_20">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 20: November 1752 – März 1753. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston 2025. [Digitale Ausgabe, 2025. <ref target="https://doi.org/10.1515/9783111636566">DOI: 10.1515/9783111636566</ref>]</bibl>
+                <bibl type="hybrid" xml:id="gottsched_corresp_21">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 21: April 1753 – August 1753. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston 2026. [Digitale Ausgabe, 2026. <ref target="https://doi.org/10.1515/9783112231883">DOI: 10.1515/9783112231883</ref>]</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -40813,6 +40814,1434 @@
                     <persName ref="http://d-nb.info/gnd/128737395">Franz Christoph von Scheyb</persName>
                     <date when="1753-03-31"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="1" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/126587140">Carl Friedrich Pauli</persName>
+                    <date when="1753-04-01"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="2" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                    <date when="1753-04-02"/>
+                    <placeName ref="http://www.geonames.org/2871437">Meuselwitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="3" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-04-03"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="4" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/136187498">Christian Clodius</persName>
+                    <date when="1753-04-04"/>
+                    <placeName ref="http://www.geonames.org/2803560">Zwickau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="5" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1075517419">Johann August Rode</persName>
+                    <date when="1753-04-04"/>
+                    <placeName ref="https://www.geonames.org/2937959">Dessau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="6" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-04-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="7" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627813">Voltaire</persName>
+                    <date when="1753-04-04"/>
+                    <placeName ref="http://www.geonames.org/2879139" evidence="conjecture">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="8" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Johann Arckenholtz</persName>
+                    <date when="1753-04-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="9" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627813">Voltaire</persName>
+                    <date when="1753-04-06"/>
+                    <placeName ref="http://www.geonames.org/2879139" evidence="conjecture">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="10" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-04-07"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="11" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104068965">Georg Christian Wolff</persName>
+                    <date when="1753-04-07"/>
+                    <placeName ref="http://www.geonames.org/2921232">Gera</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="12" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                    <date when="1753-04-08"/>
+                    <placeName ref="http://www.geonames.org/2871437">Meuselwitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="13" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10413982X">Johann Gottfried Richter</persName>
+                    <date when="1753-04-10"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="14" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-04-10"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="15" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116725966">Jacob Brucker</persName>
+                    <date when="1753-04-11"/>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="16" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Gaillard</persName>
+                    <date when="1753-04-11"/>
+                    <placeName ref="https://www.geonames.org/3083632">Sprottau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="17" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1011723530">Gotthilf August Hoffmann</persName>
+                    <date when="1753-04-12"/>
+                    <placeName ref="http://www.geonames.org/2949186">Bielefeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="18" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Rudolf Graser</persName>
+                    <date when="1753-04-13"/>
+                    <placeName ref="https://www.geonames.org/2773538">Kremsmünster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="19" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date notAfter="1753-04-13"/>
+                    <placeName ref="http://www.geonames.org/2879139" evidence="conjecture">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/139940154">Joseph Anton Gabaleon von Wackerbarth-Salmour</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="20" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/139940154">Joseph Anton Gabaleon von Wackerbarth-Salmour</persName>
+                    <date when="1753-04-13"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="21" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117205028">Rudolph Wedekind</persName>
+                    <date when="1753-04-13"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="22" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/120670380">Elias Caspar Reichard</persName>
+                    <date when="1753-04-14"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="23" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1076545424">Johann Friedrich Reiffstein</persName>
+                    <date when="1753-04-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="24" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                    <date when="1753-04-15"/>
+                    <placeName ref="http://www.geonames.org/2871437">Meuselwitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="25" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11567019X">Johann Gottfried Weller</persName>
+                    <date when="1753-04-15"/>
+                    <placeName ref="http://www.geonames.org/2803560">Zwickau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="26" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/126587140">Carl Friedrich Pauli</persName>
+                    <date when="1753-04-16"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="27" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-04-17"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="28" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10413982X">Johann Gottfried Richter</persName>
+                    <date when="1753-04-18"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="29" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-04-18"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dorothee Henriette von Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="30" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Rudolf Graser</persName>
+                    <date when="1753-04-19"/>
+                    <placeName ref="https://www.geonames.org/2773538">Kremsmünster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="31" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627813">Voltaire</persName>
+                    <date when="1753-04-19"/>
+                    <placeName ref="http://www.geonames.org/2879139" evidence="conjecture">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="32" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118729098">Johann Georg (von) Lori</persName>
+                    <date when="1753-04-20"/>
+                    <placeName ref="https://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="33" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/136187498">Christian Clodius</persName>
+                    <date when="1753-04-21"/>
+                    <placeName ref="http://www.geonames.org/2803560">Zwickau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="34" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/128737395">Franz Christoph von Scheyb</persName>
+                    <date when="1753-04-21"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="35" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Johann Christian Müldener</persName>
+                    <date when="1753-04-22"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="36" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-04-24"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="37" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627813">Voltaire</persName>
+                    <date when="1753-04-25" evidence="conjecture"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="38" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1209908654">Johann Gottfried Reichel</persName>
+                    <date when="1753-04-27"/>
+                    <placeName ref="https://www.geonames.org/3084812">Starzeddel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="39" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/139940154">Joseph Anton Gabaleon von Wackerbarth-Salmour</persName>
+                    <date when="1753-04-27"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="40" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119139804">Johann Friedrich Löwen</persName>
+                    <date when="1753-04-28"/>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="41" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-04-28"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="42" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/128737395">Franz Christoph von Scheyb</persName>
+                    <date when="1753-04-28"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="43" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-04-28"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="44" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1024110869">Nicolaus Kelz</persName>
+                    <date when="1753-04-29"/>
+                    <placeName ref="http://www.geonames.org/3082707">Waldenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="45" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123008956">Johann Ernst Stieff</persName>
+                    <date when="1753-04-30"/>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="46" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118634771" evidence="conjecture">Christian (von) Wolff</persName>
+                    <date when="1753-04-30"/>
+                    <placeName ref="http://www.geonames.org/2911522" evidence="conjecture">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="47" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-05-01"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="48" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/141225629">Adam Bernhard Pantke</persName>
+                    <date when="1753-05-02"/>
+                    <placeName ref="http://www.geonames.org/3094084">Klein Kniegnitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="49" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/128737395">Franz Christoph von Scheyb</persName>
+                    <date when="1753-05-02"/>
+                    <placeName>/</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="50" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123554489">Johann Andreas Stiehl</persName>
+                    <date when="1753-05-02"/>
+                    <placeName ref="https://www.geonames.org/2896736">Idstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="51" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/140339264">Immanuel Friedrich Gregorius</persName>
+                    <date when="1753-05-03"/>
+                    <placeName ref="https://www.geonames.org/3093040">Lauban</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="52" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117596450">Johann Samuel Müller</persName>
+                    <date when="1753-05-03"/>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="53" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Gaillard</persName>
+                    <date when="1753-05-04"/>
+                    <placeName ref="https://www.geonames.org/3083632">Sprottau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="54" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100655637">Friedrich (Taufname: Fabian) Groschuff</persName>
+                    <date when="1753-05-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="55" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Oliver Legipont</persName>
+                    <date when="1753-05-04"/>
+                    <placeName ref="https://www.geonames.org/2891621">Kempten</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="56" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1075517419">Johann August Rode</persName>
+                    <date when="1753-05-05"/>
+                    <placeName ref="https://www.geonames.org/2937959">Dessau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="57" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Paul Schaffshausen</persName>
+                    <date when="1753-05-07"/>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="58" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104088281">Gottfried Schütze</persName>
+                    <date when="1753-05-07"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="59" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1016928750">Abraham Gottlob Rosenberg</persName>
+                    <date when="1753-05-08"/>
+                    <placeName ref="http://www.geonames.org/3091903">Mertschütz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="60" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137571488">Gottfried Ephraim Scheibel</persName>
+                    <date when="1753-05-08"/>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="61" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101768370">Carl Benjamin Stieff</persName>
+                    <date when="1753-05-09"/>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="62" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118540386">Johann Melchior Goeze</persName>
+                    <date when="1753-05-12"/>
+                    <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="63" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-05-12"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="64" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/120527081">Gottfried Heinrich Burghart</persName>
+                    <date when="1753-05-13"/>
+                    <placeName ref="http://www.geonames.org/3102459">Brieg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="65" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/140339264">Immanuel Friedrich Gregorius</persName>
+                    <date when="1753-05-13" evidence="conjecture"/>
+                    <placeName ref="https://www.geonames.org/3093040">Lauban</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="66" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1076545424">Johann Friedrich Reiffstein</persName>
+                    <date when="1753-05-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="67" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117536881">Gottfried Christian Freiesleben</persName>
+                    <date when="1753-05-15"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="68" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118557459">Johann Friedrich Wilhelm Jerusalem</persName>
+                    <date when="1753-05-15"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="69" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Johann Georg Wurtz</persName>
+                    <date when="1753-05-16"/>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="70" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/136187498">Christian Clodius</persName>
+                    <date when="1753-05-18"/>
+                    <placeName ref="http://www.geonames.org/2803560">Zwickau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="71" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1013135008">Ludolf Bernhard Kemna</persName>
+                    <date when="1753-05-19"/>
+                    <placeName ref="http://www.geonames.org/3099434">Danzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="72" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Christoph Otto Schönaich</persName>
+                    <date when="1753-05-19"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="73" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1015985343">Christoph Gotthold Thienemann</persName>
+                    <date when="1753-05-19"/>
+                    <placeName ref="http://www.geonames.org/2957773">Altenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="74" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Christoph Albert Klimm</persName>
+                    <date when="1753-05-21"/>
+                    <placeName ref="http://www.geonames.org/2872155">Meißen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="75" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Amand König</persName>
+                    <date when="1753-05-21"/>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="76" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1018166564">Ernst Friedrich von Seckendorff (-Gutend)</persName>
+                    <date when="1753-05-21"/>
+                    <placeName ref="http://www.geonames.org/2866906">Naumburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="77" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100836704">Johann Michael Francke</persName>
+                    <date when="1753-05-22"/>
+                    <placeName ref="https://www.geonames.org/2861758">Nöthnitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="78" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-05-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="79" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1076545424">Johann Friedrich Reiffstein</persName>
+                    <date when="1753-05-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="80" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Christoph Otto vonj Schönaich</persName>
+                    <date when="1753-05-25"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="81" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-05-26"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="82" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-05-27"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Arckenholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="83" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-05-29"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Oliver Legipont</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="84" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-05-30"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="85" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Oliver Legipont</persName>
+                    <date when="1753-06-03"/>
+                    <placeName ref="https://www.geonames.org/2891621">Kempten</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="86" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104366141">Johann Gottfried Hauptmann</persName>
+                    <date when="1753-06-04"/>
+                    <placeName ref="http://www.geonames.org/2921232">Gera</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="87" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100492215">Christian Gottfried Grabener</persName>
+                    <date when="1753-06-08"/>
+                    <placeName ref="http://www.geonames.org/2835939">Schulpforte</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="88" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-06-09"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="89" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1209908654">Johann Gottfried Reichel</persName>
+                    <date when="1753-06-14"/>
+                    <placeName ref="https://www.geonames.org/3084812">Starzeddel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="90" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1166285790">Friedrich Heinrich Ernst Ludwig von Seckendorff (-Gutend)</persName>
+                    <date when="1753-06-14"/>
+                    <placeName ref="http://www.geonames.org/2871437">Meuselwitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="91" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-06-18"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118779893">Magnus Gottfried Lichtwer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="92" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-06-21"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="93" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1018166564">Ernst Friedrich von Seckendorff (-Gutend)</persName>
+                    <date when="1753-06-21"/>
+                    <placeName ref="http://www.geonames.org/2866906">Naumburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="94" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1013135105">Lorenz Henning Suke (Suck, Sucke)</persName>
+                    <date when="1753-06-22"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="95" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118697765">Friedrich Melchior Grimm</persName>
+                    <date when="1753-06-23"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="96" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117418730">Daniel Wilhelm Triller</persName>
+                    <date when="1753-06-23"/>
+                    <placeName ref="http://www.geonames.org/7303020">Wittenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="97" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1076545424">Johann Friedrich Reiffstein</persName>
+                    <date when="1753-06-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="98" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102532842">Johann Heinrich Gottsched</persName>
+                    <date when="1753-06-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="99" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118779893">Magnus Gottfried Lichtwer</persName>
+                    <date when="1753-06-25"/>
+                    <placeName ref="http://www.geonames.org/2911665">Halberstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="100" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/136187498">Christian Clodius</persName>
+                    <date when="1753-06-26"/>
+                    <placeName ref="http://www.geonames.org/2803560">Zwickau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="101" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10251190X">Johann Gottfried Hermann</persName>
+                    <date when="1753-06-26"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="102" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-06-26"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="103" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
+                    <date when="1753-06-26"/>
+                    <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="104" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/128737395">Franz Christoph von Scheyb</persName>
+                    <date when="1753-06-27"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="105" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1013135105">Lorenz Henning Suke (Suck, Sucke)</persName>
+                    <date when="1753-06-27"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="106" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/139940154">Joseph Anton Gabaleon von Wackerbarth-Salmour</persName>
+                    <date when="1753-06-29"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="107" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123554489">Johann Andreas Stiehl</persName>
+                    <date when="1753-06-30"/>
+                    <placeName ref="https://www.geonames.org/2896736">Idstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="108" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118557459">Johann Friedrich Wilhelm Jerusalem</persName>
+                    <date when="1753-07-01"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="109" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11567019X">Johann Gottfried Weller</persName>
+                    <date when="1753-07-02"/>
+                    <placeName ref="http://www.geonames.org/2803560">Zwickau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="110" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117761419">Johann Georg Altmann</persName>
+                    <date when="1753-07-04"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="111" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-07-06"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="112" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Gerlach Adolph von Münchhausen</persName>
+                    <date when="1753-07-06"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="113" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/126587140">Carl Friedrich Pauli</persName>
+                    <date when="1753-07-07"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="114" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119258862">Gustav Adolf von Gotter</persName>
+                    <date when="1753-07-09" evidence="conjecture"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="115" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119132117">Elias Luzac</persName>
+                    <date when="1753-07-13"/>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="116" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-07-14"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="117" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116511427">Georg Gottlob Richter</persName>
+                    <date when="1753-07-16"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="118" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date from="1753-07-16" to="1753-07-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="119" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                    <date when="1753-07-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="120" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1166285790">Friedrich Heinrich Ernst Ludwig von Seckendorff (-Gutend)</persName>
+                    <date when="1753-07-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="121" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117205028">Rudolph Wedekind</persName>
+                    <date when="1753-07-21"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="122" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118697765">Friedrich Melchior Grimm</persName>
+                    <date when="1753-07-22" evidence="conjecture"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="123" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                    <date when="1753-07-22"/>
+                    <placeName ref="http://www.geonames.org/2871437">Meuselwitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="124" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Amand König</persName>
+                    <date when="1753-07-25"/>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="125" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Johann David Köhler</persName>
+                    <date notBefore="1753-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="126" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123554489">Johann Andreas Stiehl</persName>
+                    <date when="1753-08-03"/>
+                    <placeName ref="https://www.geonames.org/2896736">Idstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="127" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117536881">Gottfried Christian Freiesleben</persName>
+                    <date when="1753-08-05"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="128" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11763865X">Samuel Buchholtz</persName>
+                    <date when="1753-08-06"/>
+                    <placeName ref="http://www.geonames.org/2810983">Werben</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="129" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-08-07"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Catharina Friederica, geb. Scipio Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="130" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116057270">Johann Friedrich Barisién</persName>
+                    <date when="1753-08-08"/>
+                    <placeName ref="https://www.geonames.org/2835537">Schwabach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="131" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Friedrich Wilhelm Duve</persName>
+                    <date when="1753-08-08"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="132" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116809205">Johann Friedrich Graefe</persName>
+                    <date when="1753-08-08" evidence="conjecture"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="133" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-08-08"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="134" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116978163">Franz Theodor Lex</persName>
+                    <date when="1753-08-09"/>
+                    <placeName ref="https://www.geonames.org/2821690">Trarbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="135" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date from="1753-08-10" to="1753-08-18"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="136" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115598324">Johann Jacob Quandt</persName>
+                    <date when="1753-08-14"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="137" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102532842">Johann Heinrich Gottsched</persName>
+                    <date when="1753-08-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="138" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/142021857">Christian Heinrich Gütther</persName>
+                    <date when="1753-08-26"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="139" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104164913">Johann Augustin Köselitz</persName>
+                    <date when="1753-08-26"/>
+                    <placeName ref="https://www.geonames.org/2804748">Zerbst</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="140" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118696734">Luise Adelgunde Victorie Kulmus</persName>
+                    <date when="1753-08-27"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von, geb. Rother Runckel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="141" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/105568364X">Christian Brandan Johann Hugo</persName>
+                    <date when="1753-08-28"/>
+                    <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="142" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
+                    <date when="1753-08-28"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="143" source="#gottsched_corresp_21">
+                <correspAction type="sent">
+                    <persName>Johann Ludwig Mannso</persName>
+                    <date when="1753-08-29"/>
+                    <placeName ref="https://www.geonames.org/2804748">Zerbst</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
