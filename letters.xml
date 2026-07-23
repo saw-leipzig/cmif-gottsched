@@ -11,7 +11,7 @@
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2026-07-09T18:44:54.096+02:00</date>
+                <date>2026-07-13T16:36:01.968+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
@@ -18030,7 +18030,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/123458625">Anna Maria Werner</persName>
+                    <persName>unbekannte Empfängerin</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="71" source="#gottsched_corresp_9">
@@ -34463,7 +34463,7 @@
             </correspDesc>
             <correspDesc key="51" source="#gottsched_corresp_17">
                 <correspAction type="sent">
-                    <persName>Thun und Hohenstein, Johann Vigilius von</persName>
+                    <persName>Johann Vigilius Carl von Thun und Hohenstein</persName>
                     <date when="1751-06-01"/>
                     <placeName ref="https://www.geonames.org/2874225">Mainz</placeName>
                 </correspAction>
@@ -37650,8 +37650,6 @@
                     <persName ref="https://d-nb.info/gnd/135592232">Placidus Amon</persName>
                 </correspAction>
             </correspDesc>
-                </correspAction>
-            </correspDesc>
             <correspDesc key="30" source="#gottsched_corresp_19">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/1076545424">Johann Friedrich Reiffstein</persName>
@@ -38066,7 +38064,7 @@
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118557459">Johann Friedrich Wilhelm Jerusalem</persName>
                     <date when="1752-07-14" evidence="conjecture"/>
-                    <placeName>Salzdahlen</placeName>
+                    <placeName ref="https://www.geonames.org/2842163">Salzdahlum</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38086,7 +38084,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/1090351372">Johann Rudolf Ernst</persName>
                     <date when="1752-07-15"/>
-                    <placeName>Groningen</placeName>
+                    <placeName ref="https://www.geonames.org/2755251">Groningen</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38315,7 +38313,7 @@
                 <correspAction type="sent">
                     <persName>Jacob Otto</persName>
                     <date when="1752-08-12"/>
-                    <placeName>Lindau</placeName>
+                    <placeName ref="https://www.geonames.org/2877550">Lindau</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38325,7 +38323,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/1089596731">Gianjacopo de Rota</persName>
                     <date when="1752-08-12"/>
-                    <placeName>Chur</placeName>
+                    <placeName ref="https://www.geonames.org/2661169">Chur</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38385,7 +38383,7 @@
                 <correspAction type="sent">
                     <persName>De Jung</persName>
                     <date when="1752-08-15"/>
-                    <placeName>Utrecht</placeName>
+                    <placeName ref="https://www.geonames.org/2745912">Utrecht</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38424,7 +38422,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/135592232">Placidus Amon</persName>
                     <date when="1752-08-19"/>
-                    <placeName>Traiskirchen</placeName>
+                    <placeName ref="https://www.geonames.org/2763460">Traiskirchen</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38654,7 +38652,7 @@
                 <correspAction type="sent">
                     <persName>Wieszniovski, Adalbertus</persName>
                     <date when="1752-09-12"/>
-                    <placeName>Lemberg</placeName>
+                    <placeName ref="https://www.geonames.org/702550">Lemberg</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -38694,7 +38692,7 @@
                 <correspAction type="sent">
                     <persName>Carl August Andreas Gruner</persName>
                     <date when="1752-09-16"/>
-                    <placeName>Schneren</placeName>
+                    <placeName ref="https://www.geonames.org/2837447">Schneeren</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -39094,7 +39092,7 @@
                 <correspAction type="sent">
                     <persName>Johann Theodor Simmers</persName>
                     <date when="1752-10-25"/>
-                    <placeName>Campen</placeName>
+                    <placeName ref="https://www.geonames.org/2940354">Campen</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -39134,7 +39132,7 @@
                 <correspAction type="sent">
                     <persName>Christoph Hartmann Andreas Grabner</persName>
                     <date when="1752-10-31"/>
-                    <placeName>Herbsleben</placeName>
+                    <placeName ref="https://www.geonames.org/2906185">Herbsleben</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
