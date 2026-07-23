@@ -11,7 +11,7 @@
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2026-07-23T13:50:33.302+02:00</date>
+                <date>2026-07-23T15:43:34.021+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
@@ -28121,7 +28121,7 @@
             </correspDesc>
             <correspDesc key="45" source="#gottsched_corresp_14">
                 <correspAction type="sent">
-                    <persName>Feriet, Jean Benjamin de</persName>
+                    <persName>Jean Benjamin de Feriet</persName>
                     <date when="1749-01-11"/>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
@@ -29999,7 +29999,7 @@
             </correspDesc>
             <correspDesc key="24" source="#gottsched_corresp_15">
                 <correspAction type="sent">
-                    <persName>Engelschall, Joseph Heinrich</persName>
+                    <persName>Joseph Heinrich Engelschall</persName>
                     <date when="1749-11-05"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
@@ -30179,7 +30179,7 @@
             </correspDesc>
             <correspDesc key="42" source="#gottsched_corresp_15">
                 <correspAction type="sent">
-                    <persName>Engelschall, Joseph Heinrich</persName>
+                    <persName>Joseph Heinrich Engelschall</persName>
                     <date when="1749-11-27"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
@@ -30269,7 +30269,7 @@
             </correspDesc>
             <correspDesc key="51" source="#gottsched_corresp_15">
                 <correspAction type="sent">
-                    <persName>Marci, Jean François</persName>
+                    <persName>Jean François Marci</persName>
                     <date when="1749-12-10"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
@@ -34134,7 +34134,7 @@
             </correspDesc>
             <correspDesc key="18" source="#gottsched_corresp_17">
                 <correspAction type="sent">
-                    <persName>Wanckhel von Seeberg, Martin Zacharias</persName>
+                    <persName>Martin Zacharias Wanckhel von Seeberg</persName>
                     <date when="1751-04-20"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
@@ -34964,7 +34964,7 @@
             </correspDesc>
             <correspDesc key="101" source="#gottsched_corresp_17">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1751-08-17"/>
                     <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
                 </correspAction>
@@ -35855,7 +35855,7 @@
             </correspDesc>
             <correspDesc key="28" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Mairan, Jean-Jacques Dortous de</persName>
+                    <persName>Jean-Jacques Dortous de Mairan</persName>
                     <date when="1751-12-09"/>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                 </correspAction>
@@ -36384,7 +36384,7 @@
             </correspDesc>
             <correspDesc key="81" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Mairan, Jean-Jacques Dortous de</persName>
+                    <persName>Jean-Jacques Dortous de Mairan</persName>
                     <date when="1752-01-31"/>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                 </correspAction>
@@ -36454,7 +36454,7 @@
             </correspDesc>
             <correspDesc key="88" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-02-06" evidence="conjecture"/>
                     <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
                 </correspAction>
@@ -36549,7 +36549,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Seckendorff,Friedrich Heinrich von</persName>
+                    <persName>Friedrich Heinrich von Seckendorff</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="98" source="#gottsched_corresp_18">
@@ -36634,7 +36634,7 @@
             </correspDesc>
             <correspDesc key="106" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-02-21"/>
                     <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
                 </correspAction>
@@ -36649,7 +36649,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Seckendorff,Friedrich Heinrich von</persName>
+                    <persName>Friedrich Heinrich von Seckendorff</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="108" source="#gottsched_corresp_18">
@@ -36774,7 +36774,7 @@
             </correspDesc>
             <correspDesc key="120" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-03-13"/>
                     <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
                 </correspAction>
@@ -36924,7 +36924,7 @@
             </correspDesc>
             <correspDesc key="135" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-03-31"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -37293,7 +37293,7 @@
             </correspDesc>
             <correspDesc key="172" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-04-26"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -37623,7 +37623,7 @@
             </correspDesc>
             <correspDesc key="27" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-05-24"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -37718,7 +37718,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="37" source="#gottsched_corresp_19">
@@ -38551,7 +38551,7 @@
             </correspDesc>
             <correspDesc key="120" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>König, Amand</persName>
+                    <persName>Amand König</persName>
                     <date when="1752-09-01"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -38651,7 +38651,7 @@
             </correspDesc>
             <correspDesc key="130" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>Wieszniovski, Adalbertus</persName>
+                    <persName>Adalbertus Wieszniovski</persName>
                     <date when="1752-09-12"/>
                     <placeName ref="https://www.geonames.org/702550">Lemberg</placeName>
                 </correspAction>
@@ -38731,7 +38731,7 @@
             </correspDesc>
             <correspDesc key="138" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-09-20"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -39301,7 +39301,7 @@
             </correspDesc>
             <correspDesc key="16" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Graser, Rudolf</persName>
+                    <persName>Rudolf Graser</persName>
                     <date when="1752-11-12"/>
                     <placeName ref="https://www.geonames.org/2773538">Kremsmünster</placeName>
                 </correspAction>
@@ -39671,7 +39671,7 @@
             </correspDesc>
             <correspDesc key="52" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Nauendorf, Johanna Louise Antonia</persName>
+                    <persName>Johanna Louise Antonia Nauendorf</persName>
                     <date when="1752-12-20"/>
                     <placeName ref="https://www.geonames.org/2921828">Geilsdorf</placeName>
                 </correspAction>
@@ -39711,7 +39711,7 @@
             </correspDesc>
             <correspDesc key="56" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Lalande, Joseph-Jérome Le Francois de</persName>
+                    <persName>Joseph-Jérome Le Francois de Lalande</persName>
                     <date when="1752-12-25"/>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                 </correspAction>
@@ -39781,7 +39781,7 @@
             </correspDesc>
             <correspDesc key="64" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1752-12-29"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -40026,7 +40026,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Runckel, Dorothee Henriette von</persName>
+                    <persName>Dorothee Henriette von Runckel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="89" source="#gottsched_corresp_20">
@@ -40106,7 +40106,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Runckel, Dorothee Henriette von</persName>
+                    <persName>Dorothee Henriette von Runckel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="97" source="#gottsched_corresp_20">
@@ -40141,7 +40141,7 @@
             </correspDesc>
             <correspDesc key="100" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Runckel, Dorothee Henriette von</persName>
+                    <persName>Dorothee Henriette von Runckel</persName>
                     <date when="1753-01-31"/>
                     <placeName ref="http://www.geonames.org/2918987">Görlitz</placeName>
                 </correspAction>
@@ -40220,7 +40220,7 @@
             </correspDesc>
             <correspDesc key="107" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Graser, Rudolf</persName>
+                    <persName>Rudolf Graser</persName>
                     <date when="1753-02-08"/>
                     <placeName ref="https://www.geonames.org/2773538">Kremsmünster</placeName>
                 </correspAction>
@@ -40255,7 +40255,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Runckel, Dorothee Henriette von</persName>
+                    <persName>Dorothee Henriette von Runckel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="111" source="#gottsched_corresp_20">
@@ -40350,7 +40350,7 @@
             </correspDesc>
             <correspDesc key="121" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Rothfischer, Franz Ignaz</persName>
+                    <persName>Franz Ignaz Rothfischer</persName>
                     <date when="1753-02-20"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -40410,7 +40410,7 @@
             </correspDesc>
             <correspDesc key="127" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Dienemann, Gotthilf Johann Ludwig</persName>
+                    <persName>Gotthilf Johann Ludwig Dienemann</persName>
                     <date when="1753-02-25"/>
                     <placeName ref="http://www.geonames.org/7284571">Eisleben</placeName>
                 </correspAction>
@@ -40425,7 +40425,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Runckel, Dorothee Henriette von</persName>
+                    <persName>Dorothee Henriette von Runckel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="129" source="#gottsched_corresp_20">
@@ -40525,7 +40525,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Runckel, Dorothee Henriette von</persName>
+                    <persName>Dorothee Henriette von Runckel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="139" source="#gottsched_corresp_20">
@@ -40620,7 +40620,7 @@
             </correspDesc>
             <correspDesc key="148" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Lachemair, Johann Ferdinand von</persName>
+                    <persName>Johann Ferdinand von Lachemair</persName>
                     <date when="1753-03-15"/>
                     <placeName ref="https://www.geonames.org/2775220">Innsbruck</placeName>
                 </correspAction>
@@ -40780,7 +40780,7 @@
             </correspDesc>
             <correspDesc key="164" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>König, Amand</persName>
+                    <persName>Amand König</persName>
                     <date when="1753-03-30"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
