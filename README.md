@@ -14,8 +14,9 @@ If you find any mistakes, let us know, by creating an issue.
 
 * Uwe Kretschmer
 * Franziska Menzel
-* Rüdiger Otto
+* Rüdiger Otto (until 01/01/2026)
 * Lars Scheideler
+* Ute Tischer (since 01/01/2026)
 
 ## License
 
