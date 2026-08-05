@@ -34965,7 +34965,7 @@
             </correspDesc>
             <correspDesc key="101" source="#gottsched_corresp_17">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1751-08-17"/>
                     <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
                 </correspAction>
@@ -36455,7 +36455,7 @@
             </correspDesc>
             <correspDesc key="88" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-02-06" evidence="conjecture"/>
                     <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
                 </correspAction>
@@ -36635,7 +36635,7 @@
             </correspDesc>
             <correspDesc key="106" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-02-21"/>
                     <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
                 </correspAction>
@@ -36775,7 +36775,7 @@
             </correspDesc>
             <correspDesc key="120" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-03-13"/>
                     <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
                 </correspAction>
@@ -36925,7 +36925,7 @@
             </correspDesc>
             <correspDesc key="135" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-03-31"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -37294,7 +37294,7 @@
             </correspDesc>
             <correspDesc key="172" source="#gottsched_corresp_18">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-04-26"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -37624,7 +37624,7 @@
             </correspDesc>
             <correspDesc key="27" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-05-24"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -37719,7 +37719,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="37" source="#gottsched_corresp_19">
@@ -38552,7 +38552,7 @@
             </correspDesc>
             <correspDesc key="120" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>Amand König</persName>
+                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1752-09-01"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -38732,7 +38732,7 @@
             </correspDesc>
             <correspDesc key="138" source="#gottsched_corresp_19">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-09-20"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -39164,7 +39164,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/1053514980">Johann Gottlieb Neldner</persName>
                     <date when="1752-11-03"/>
-                    <placeName>Herrnprotsch</placeName>
+                    <placeName ref="https://www.geonames.org/3088156">Herrnprotsch</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
@@ -39782,7 +39782,7 @@
             </correspDesc>
             <correspDesc key="64" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1752-12-29"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -40351,7 +40351,7 @@
             </correspDesc>
             <correspDesc key="121" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Franz Ignaz Rothfischer</persName>
+                    <persName ref="https://d-nb.info/gnd/100261035">Franz Ignaz Rothfischer</persName>
                     <date when="1753-02-20"/>
                     <placeName ref="http://www.geonames.org/2906676">Helmstedt</placeName>
                 </correspAction>
@@ -40781,7 +40781,7 @@
             </correspDesc>
             <correspDesc key="164" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Amand König</persName>
+                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1753-03-30"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -40891,7 +40891,7 @@
             </correspDesc>
             <correspDesc key="8" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Johann Arckenholtz</persName>
+                    <persName ref="https://d-nb.info/gnd/116319739">Johan Arckenholtz</persName>
                     <date when="1753-04-05"/>
                     <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
                 </correspAction>
@@ -41161,7 +41161,7 @@
             </correspDesc>
             <correspDesc key="35" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Johann Christian Müldener</persName>
+                    <persName ref="https://d-nb.info/gnd/104103868">Johann Christian Müldener (Müldner, Mildner)</persName>
                     <date when="1753-04-22"/>
                     <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
                 </correspAction>
@@ -41361,7 +41361,7 @@
             </correspDesc>
             <correspDesc key="55" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Oliver Legipont</persName>
+                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver (Olivier François Légipont) Legipont</persName>
                     <date when="1753-05-04"/>
                     <placeName ref="https://www.geonames.org/2891621">Kempten</placeName>
                 </correspAction>
@@ -41381,7 +41381,7 @@
             </correspDesc>
             <correspDesc key="57" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Paul Schaffshausen</persName>
+                    <persName ref="https://d-nb.info/gnd/12884230X">Paul Schaffshausen (Schafshausen, Schaafshausen)</persName>
                     <date when="1753-05-07"/>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                 </correspAction>
@@ -41531,7 +41531,7 @@
             </correspDesc>
             <correspDesc key="72" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Christoph Otto Schönaich</persName>
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
                     <date when="1753-05-19"/>
                     <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
                 </correspAction>
@@ -41551,7 +41551,7 @@
             </correspDesc>
             <correspDesc key="74" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Christoph Albert Klimm</persName>
+                    <persName ref="https://d-nb.info/gnd/1053519834">Christoph Albert (Albrecht) Klimm</persName>
                     <date when="1753-05-21"/>
                     <placeName ref="http://www.geonames.org/2872155">Meißen</placeName>
                 </correspAction>
@@ -41561,7 +41561,7 @@
             </correspDesc>
             <correspDesc key="75" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Amand König</persName>
+                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1753-05-21"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -41636,7 +41636,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Arckenholtz</persName>
+                    <persName ref="https://d-nb.info/gnd/116319739">Johan Arckenholtz</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="83" source="#gottsched_corresp_21">
@@ -41646,7 +41646,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Oliver Legipont</persName>
+                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver (Olivier François Légipont) Legipont</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="84" source="#gottsched_corresp_21">
@@ -41661,7 +41661,7 @@
             </correspDesc>
             <correspDesc key="85" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Oliver Legipont</persName>
+                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver (Olivier François Légipont) Legipont</persName>
                     <date when="1753-06-03"/>
                     <placeName ref="https://www.geonames.org/2891621">Kempten</placeName>
                 </correspAction>
@@ -41931,7 +41931,7 @@
             </correspDesc>
             <correspDesc key="112" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Gerlach Adolph von Münchhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/118735020">Gerlach Adolf von Münchhausen</persName>
                     <date when="1753-07-06"/>
                     <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
                 </correspAction>
@@ -42049,7 +42049,7 @@
             </correspDesc>
             <correspDesc key="124" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Amand König</persName>
+                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1753-07-25"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -42059,7 +42059,7 @@
             </correspDesc>
             <correspDesc key="125" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Johann David Köhler</persName>
+                    <persName ref="https://d-nb.info/gnd/11872424X">Johann David Köhler (Köler)</persName>
                     <date notBefore="1753-07-29"/>
                 </correspAction>
                 <correspAction type="received">
@@ -42119,7 +42119,7 @@
             </correspDesc>
             <correspDesc key="131" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Friedrich Wilhelm Duve</persName>
+                    <persName ref="https://d-nb.info/gnd/1014513332">Friedrich Wilhelm (von) Duve</persName>
                     <date when="1753-08-08"/>
                     <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
                 </correspAction>
@@ -42239,7 +42239,7 @@
             </correspDesc>
             <correspDesc key="143" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Johann Ludwig Mannso</persName>
+                    <persName ref="https://d-nb.info/gnd/1015350283">Johann Ludwig Mannso (Manso)</persName>
                     <date when="1753-08-29"/>
                     <placeName ref="https://www.geonames.org/2804748">Zerbst</placeName>
                 </correspAction>
