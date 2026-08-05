@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Briefwechsel: Johann Christoph Gottsched</title>
+                <title>Johann Christoph und Luise Adelgunde Victorie Gottsched: Briefwechsel</title>
                 <editor>Uwe Kretschmer <email>kretschmer@saw-leipzig.de</email></editor>
             </titleStmt>
             <publicationStmt>
@@ -11,7 +11,7 @@
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2026-07-23T16:33:54.142+02:00</date>
+                <date>2026-07-24T21:16:54.142+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
@@ -36,8 +36,8 @@
                 <bibl type="hybrid" xml:id="gottsched_corresp_17">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 17: April 1751 – Oktober 1751. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Michael Schlott. Berlin, Boston: de Gruyter, 2023. [Digitale Ausgabe, 2023. <ref target="https://doi.org/10.1515/9783111017402">DOI: 10.1515/9783111017402</ref>]</bibl>
                 <bibl type="hybrid" xml:id="gottsched_corresp_18">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 18: November 1751 – April 1752. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Michael Schlott. Berlin, Boston: de Gruyter, 2024. [Digitale Ausgabe, 2024. <ref target="https://doi.org/10.1515/9783111083865">DOI: 10.1515/9783111083865</ref>]</bibl>
                 <bibl type="hybrid" xml:id="gottsched_corresp_19">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 19: Mai 1752 – Oktober 1752. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston: de Gruyter, 2024. [Digitale Ausgabe, 2024. <ref target="https://doi.org/10.1515/9783111379111">DOI: 10.1515/9783111379111</ref>]</bibl>
-                <bibl type="hybrid" xml:id="gottsched_corresp_20">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 20: November 1752 – März 1753. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston 2025. [Digitale Ausgabe, 2025. <ref target="https://doi.org/10.1515/9783111636566">DOI: 10.1515/9783111636566</ref>]</bibl>
-                <bibl type="hybrid" xml:id="gottsched_corresp_21">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 21: April 1753 – August 1753. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston 2026. [Digitale Ausgabe, 2026. <ref target="https://doi.org/10.1515/9783112231883">DOI: 10.1515/9783112231883</ref>]</bibl>
+                <bibl type="hybrid" xml:id="gottsched_corresp_20">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 20: November 1752 – März 1753. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston: de Gruyter, 2025. [Digitale Ausgabe, 2025. <ref target="https://doi.org/10.1515/9783111636566">DOI: 10.1515/9783111636566</ref>]</bibl>
+                <bibl type="hybrid" xml:id="gottsched_corresp_21">Johann Christoph Gottsched. Briefwechsel unter Einschluß des Briefwechsels von Luise Adelgunde Victorie Gottsched. Im Auftrage der Sächsischen Akademie der Wissenschaften zu Leipzig hrsg. v. Detlef Döring † u. Manfred Rudersdorf. Band 21: April 1753 – August 1753. Hrsg. und bearb. von Caroline Köhler, Franziska Menzel, Rüdiger Otto und Ute Tischer. Berlin, Boston: de Gruyter, 2026. [Digitale Ausgabe, 2026. <ref target="https://doi.org/10.1515/9783112231883">DOI: 10.1515/9783112231883</ref>]</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -18942,7 +18942,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothea Eleonore von Leyser, geb. Leyser</persName>
+                    <persName ref="http://d-nb.info/gnd/1049860535">Dorothea Eleonore von Leyser, geb. Leyser</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="162" source="#gottsched_corresp_9">
@@ -36550,7 +36550,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Friedrich Heinrich von Seckendorff</persName>
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="98" source="#gottsched_corresp_18">
@@ -36650,7 +36650,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Friedrich Heinrich von Seckendorff</persName>
+                    <persName ref="http://d-nb.info/gnd/119473798">Friedrich Heinrich von Seckendorff (-Gutend)</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="108" source="#gottsched_corresp_18">
@@ -38553,6 +38553,7 @@
             <correspDesc key="120" source="#gottsched_corresp_19">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
+                    <persName ref="http://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1752-09-01"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -40027,7 +40028,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="89" source="#gottsched_corresp_20">
@@ -40107,7 +40108,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="97" source="#gottsched_corresp_20">
@@ -40142,7 +40143,7 @@
             </correspDesc>
             <correspDesc key="100" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                     <date when="1753-01-31"/>
                     <placeName ref="http://www.geonames.org/2918987">Görlitz</placeName>
                 </correspAction>
@@ -40256,7 +40257,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="111" source="#gottsched_corresp_20">
@@ -40426,7 +40427,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="129" source="#gottsched_corresp_20">
@@ -40526,7 +40527,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="139" source="#gottsched_corresp_20">
@@ -40781,7 +40782,7 @@
             </correspDesc>
             <correspDesc key="164" source="#gottsched_corresp_20">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
+                    <persName ref="http://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1753-03-30"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -41106,7 +41107,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Dorothee Henriette von Runckel</persName>
+                    <persName ref="https://d-nb.info/gnd/124541372">Dorothea Henriette von Runckel, geb. Rother</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="30" source="#gottsched_corresp_21">
@@ -41361,7 +41362,7 @@
             </correspDesc>
             <correspDesc key="55" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver (Olivier François Légipont) Legipont</persName>
+                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver Legipont (Olivier François Légipont)</persName>
                     <date when="1753-05-04"/>
                     <placeName ref="https://www.geonames.org/2891621">Kempten</placeName>
                 </correspAction>
@@ -41561,7 +41562,7 @@
             </correspDesc>
             <correspDesc key="75" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
+                    <persName ref="http://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1753-05-21"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -41611,7 +41612,7 @@
             </correspDesc>
             <correspDesc key="80" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName>Christoph Otto vonj Schönaich</persName>
+                    <persName ref="https://d-nb.info/gnd/108972755">Christoph Otto von Schönaich</persName>
                     <date when="1753-05-25"/>
                     <placeName ref="https://www.geonames.org/3099416">Amtitz</placeName>
                 </correspAction>
@@ -41646,7 +41647,7 @@
                     <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver (Olivier François Légipont) Legipont</persName>
+                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver Legipont (Olivier François Légipont)</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc key="84" source="#gottsched_corresp_21">
@@ -41661,7 +41662,7 @@
             </correspDesc>
             <correspDesc key="85" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver (Olivier François Légipont) Legipont</persName>
+                    <persName ref="https://d-nb.info/gnd/11686091X">Oliver Legipont (Olivier François Légipont)</persName>
                     <date when="1753-06-03"/>
                     <placeName ref="https://www.geonames.org/2891621">Kempten</placeName>
                 </correspAction>
@@ -41931,7 +41932,7 @@
             </correspDesc>
             <correspDesc key="112" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/118735020">Gerlach Adolf von Münchhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/118735020">Gerlach Adolph von Münchhausen</persName>
                     <date when="1753-07-06"/>
                     <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
                 </correspAction>
@@ -42049,7 +42050,7 @@
             </correspDesc>
             <correspDesc key="124" source="#gottsched_corresp_21">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/117706248">Amand König</persName>
+                    <persName ref="http://d-nb.info/gnd/117706248">Amand König</persName>
                     <date when="1753-07-25"/>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>

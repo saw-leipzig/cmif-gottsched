@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [1.0.10] - 2026-07-24
+
+### Added
+
+- Letters of volume 19–21
+
+### Changed
+
+- Added authority references and standardized person and place names
+- Updated the CMIF title and publisher information
+- Added Ute Tischer as contributor of metadata
+
+### Fixed
+
+- Fixed the styling of output names for persNames without an identifier
+- Corrected person and place name variants and identifier data
+
 ## [1.0.9] - 2024-11-07
 
 ### Added
@@ -97,7 +114,8 @@ Identifier added for:
 
 - Letters of volumes 1-13.
 
-[Unreleased]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.9...HEAD
+[Unreleased]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.10...HEAD
+[1.0.10]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.9...1.0.10
 [1.0.9]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.8...1.0.9
 [1.0.8]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.7...1.0.8
 [1.0.7]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.6...1.0.7
