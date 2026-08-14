@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.11] - 2026-08-14
+
+### Changed
+
+- Standardized remaining person and place names and completed missing authority references
+- Adjusted name formatting to place family names before maiden names
+- Updated external resource URLs to HTTPS
+
+### Fixed
+
+- Corrected malformed and incomplete person/place name entries and GND-related identifier data
+- Added a missing place name in the dataset
+
 ## [1.0.10] - 2026-07-24
 
 ### Added
@@ -112,6 +125,7 @@ Identifier added for:
 
 - Letters of volumes 1-13.
 
+[1.0.11]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.10...1.0.11
 [1.0.10]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.9...1.0.10
 [1.0.9]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.8...1.0.9
 [1.0.8]: https://github.com/saw-leipzig/cmif-gottsched/compare/1.0.7...1.0.8
