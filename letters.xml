@@ -11,7 +11,7 @@
                     <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
                 </publisher>
                 <idno type="url">https://raw.githubusercontent.com/saw-leipzig/cmif-gottsched/master/letters.xml</idno>
-                <date>2026-08-06T10:56:54.017+02:00</date>
+                <date>2026-08-14T14:56:54.017+02:00</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
@@ -41303,7 +41303,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/128737395">Franz Christoph von Scheyb</persName>
                     <date when="1753-05-02"/>
-                    <placeName>/</placeName>
+                    <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118541013">Johann Christoph Gottsched</persName>
